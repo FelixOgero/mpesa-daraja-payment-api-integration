@@ -11,7 +11,7 @@ function App() {
       <header>
         <h1>M-PESA Payment Integration</h1>
         <a
-          href="https://github.com/FelixOgero/intasend-payment-api-integration"
+          href="https://github.com/FelixOgero/mpesa-daraja-payment-api-integration"
           target="_blank"
           rel="noopener noreferrer"
           style={{
